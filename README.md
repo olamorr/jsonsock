@@ -1,2 +1,4 @@
 # jsonsock
-A NON jsonrpc complaint json RPC library
+A NON jsonrpc compliant json RPC library
+
+MIT Licensed
