@@ -1,0 +1,21 @@
+{
+  "name": "jsonsock",
+  "version": "1.0.0",
+  "description": "An idiomatic ES6 NON-jsonrpc-compliant json RPC library for NodeJS",
+  "main": "jsonsock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-olamorr:olamorr/jsonsock.git"
+  },
+  "keywords": [
+    "json",
+    "rpc",
+    "es6",
+    "idiomatic"
+  ],
+  "author": "Olamorr",
+  "license": "MIT"
+}
