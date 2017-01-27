@@ -1,6 +1,6 @@
 {
   "name": "jsonsock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An idiomatic ES6 NON-jsonrpc-compliant json RPC library for NodeJS",
   "main": "jsonsock.js",
   "scripts": {
