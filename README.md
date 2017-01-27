@@ -40,7 +40,7 @@ An idiomatic ES6 NON-jsonrpc-compliant json RPC library for NodeJS.
     const remoteRpcPort = 9001
     const remoteRpcHost = '127.0.0.1'
 
-    var client = new jsonsock.Client('127.0.0.1', 7532)
+    var client = new jsonsock.Client(remoteRpcHost, remoteRpcPort)
     client.ready(() => {
       let remote = client.funcs
 
